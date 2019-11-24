@@ -37,7 +37,7 @@ For example, the first endpoint on the page is `/hello`.  This is a simple test 
 
 ### A note about querying data
 
-#### As of that time of this writing, sample data is available for July (07) and October (10) through November (11) 5th.
+#### Sample data is only available for July (07) and October (10) through November (11) 5th.
 
 
 Every endpoint that queries data has 3 parameters that limit the data that is scanned and the data that is returned in the form of csv or json.  The reason that the `from_date` and `to_date` are required is so that we only scan for the data that we need.  Otherwise, every query would take very long and get costly. The parameters are:
