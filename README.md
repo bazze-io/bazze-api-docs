@@ -2,7 +2,7 @@
 
 https://api.bazze.io
 
-There are many different ways to use the API.  Most of the time, API's are used by developers as an "integration point" for an application.  API's can also be used on their own for testing and to see what the raw responses look like without the larger application.
+Most of the time, API's are used by developers as an "integration point" for an application.  API's can also be used on their own for testing and to see what the raw responses look like without the larger application.
 
 There are a few different ways to test out the API.  For example, you can use:
 
