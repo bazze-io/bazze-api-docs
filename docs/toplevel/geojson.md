@@ -16,7 +16,7 @@ For example, you may want to name the area and add date restrictions to the quer
 
 | key        | value            |
 |------------|------------------|
-| short_name | kgb_headquarters |
+| short_name | eiffel_tower     |
 | from_date  | 2019-11-01       |
 | to_date    | 2019-11-03       |
 
