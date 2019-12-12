@@ -2,8 +2,9 @@
 layout: default
 title: records/geofence
 parent: Endpoints
+grand_parent: v1
 nav_order: 3
-permalink: /endpoints/geofence/
+permalink: /v1/endpoints/records_geofence
 ---
 
 

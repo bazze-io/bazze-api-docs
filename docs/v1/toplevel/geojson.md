@@ -2,7 +2,8 @@
 layout: default
 title: Using geoJSON
 nav_order: 10
-permalink: /getjson/
+parent: v1
+permalink: /v1/getjson
 ---
 
 ## Drawing polygons on geojson.io

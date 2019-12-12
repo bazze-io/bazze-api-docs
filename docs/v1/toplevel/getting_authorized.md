@@ -2,7 +2,8 @@
 layout: default
 title: Getting Authorized
 nav_order: 2
-permalink: /getting_authorized/
+parent: v1
+permalink: /v1/getting_authorized
 ---
 
 ## Getting Authorized

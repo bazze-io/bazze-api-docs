@@ -2,8 +2,9 @@
 layout: default
 title: hello
 parent: Endpoints
+grand_parent: v1
 nav_order: 1
-permalink: /endpoints/hello/
+permalink: /v1/endpoints/hello
 ---
 
 ### The /hello endpoint

@@ -5,7 +5,9 @@ title: Getting Started
 
 ## Getting started with the Bazze API
 
-The API is located at:  [https://api.bazze.io](https://api.bazze.io)
+The API is located at:  [https://api.bazze.io](https://api.bazze.io).
+
+[Latest documentation](/v1)
 
 Most of the time, API's are used by developers as an "integration point" for an application.  API's can also be used on their own for testing and to see what the raw responses look like without the larger application.
 

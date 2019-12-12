@@ -2,8 +2,9 @@
 layout: default
 title: results
 parent: Endpoints
-nav_order: 6
-permalink: /endpoints/results/
+grand_parent: v1
+nav_order: 7
+permalink: /v1/endpoints/results
 ---
 
 

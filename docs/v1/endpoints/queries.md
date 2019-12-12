@@ -2,8 +2,9 @@
 layout: default
 title: queries
 parent: Endpoints
-nav_order: 7
-permalink: /endpoints/queries/
+grand_parent: v1
+nav_order: 9
+permalink: /v1/endpoints/queries
 ---
 
 ### /queries - Check your query history
