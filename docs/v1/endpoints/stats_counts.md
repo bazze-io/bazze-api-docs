@@ -20,6 +20,7 @@ This endpoint allows you to get exact or approximate counts of unique objects.
   "advertising_ids": 1205555,
   "ip_addresses": 2163332,
   "wifi_bssids": 1107993,
-  "wifi_ssids": 665445
+  "wifi_ssids": 665445,
+  "total_records": 8423452
 }
 ```
