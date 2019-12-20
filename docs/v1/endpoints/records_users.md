@@ -25,6 +25,7 @@ This endpoint allows you to pull records by providing an array of advertising_id
 ```
 
 - Set the `limit` and the `to_date`, `from_date` parameters.
+- If you would like to "wait" for the quert to finish and get a JSON response, set the `wait` paramter to **true**.  The results will look similar to the response of the /scrollResults endpoint.
 - Click the **Execute** button and scroll down to the section labeled **Response Body**.  You should see something similar to the following below.  Note that your `QueryExecutionId` will be different since every query execution is unique.
 
 ```json

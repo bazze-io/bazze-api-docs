@@ -12,6 +12,7 @@ The most simple query to perform is the `/records` endpoint.  This will run a qu
 
 - Click on the **GET /records** endpoint and then on the **Try it out** button.  
 - Set the `limit` parameter.
+- If you would like to "wait" for the quert to finish and get a JSON response, set the `wait` paramter to **true**.  The results will look similar to the response of the /scrollResults endpoint.
 - Set the filter parameters. Be aware that the filter is an AND query meaning that the data will have to match everything in these parameters for a result to be returned.
 - Click the **Execute** button and scroll down to the section labeled **Response Body**.  You should see something similar to the following below.  Note that your `QueryExecutionId` will be different since every query execution is unique.
 
