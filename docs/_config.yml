@@ -35,13 +35,14 @@ aux_links:
     - "//api.bazze.io"
 heading_anchors: bazze.io
 # ga_tracking: UA-5555555-55
-# color_scheme: "dark"
+color_scheme: "bazze"
 
 # Build settings
-remote_theme: bazze-io/just-the-docs
-theme: just-the-docs
+remote_theme: https://github.com/bazze-io/just-the-docs
+# theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
