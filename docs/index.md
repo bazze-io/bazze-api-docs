@@ -5,7 +5,7 @@ title: Getting Started
 
 ## Getting started with the Bazze API
 
-The API is located at:  [https://api.bazze.io](https://api.bazze.io).
+The API is located at:  [https://redoc.bazze.io](https://redoc.bazze.io).
 
 [Latest documentation](/v1)
 
