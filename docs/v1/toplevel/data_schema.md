@@ -3,7 +3,7 @@ layout: default
 title: Data Schema
 nav_order: 4
 parent: v1
-permalink: /v1/getjson
+permalink: /v1/data_schema
 ---
 
 | BDS Schema          | Description                                  |
