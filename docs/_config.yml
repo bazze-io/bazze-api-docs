@@ -32,7 +32,7 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 aux_links:
   "Bazze API":
-    - "//redoc.bazze.io"
+    - "http://redoc.bazze.io/"
 heading_anchors: bazze.io
 # ga_tracking: UA-5555555-55
 color_scheme: "bazze"
