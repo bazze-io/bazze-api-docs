@@ -8,7 +8,7 @@ permalink: /v1/data_availability/
 
 ## A note about data availability
 
-**Sample data is only available for July (07), October (10), and November (11) 1st - 5th.**
+**Data Availability can be found at the /stats/daterange endpoint**
 
 
 Every endpoint that queries data has 3 parameters that limit the data that is scanned and the data that is returned in the form of csv or json.  The reason that the `from_date` and `to_date` are required is so that we only scan for the data that we need.  Otherwise, every query would take very long and get costly. The parameters are:
