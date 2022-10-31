@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Using geoJSON
 nav_order: 10
@@ -23,4 +23,4 @@ For example, you may want to name the area and add date restrictions to the quer
 
 The `short_name` is important if you want to identify the polygon in the data after it is queried.
 
-If you don't fill these fields out the query will fill in a number such as **feature_1** for the name, and will search for all dates. 
+If you don't fill these fields out the query will fill in a number such as **feature_1** for the name, and will search for all dates.  -->

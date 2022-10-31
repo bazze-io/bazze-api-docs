@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Data availability
 nav_order: 3
@@ -15,4 +15,4 @@ Every endpoint that queries data has 3 parameters that limit the data that is sc
 
 - `limit`:   This limits how many lines are returned in the csv or json file.  This does NOT affect how much data is scanned on the back-end.  If you want all matching records, fill in **ALL** for this parameter.
 - `from_date`: The left bound of the date to search for data.  Accepts a ISO date or ISO date-time.  2019-11-12, 2019-11-12 14:44:33 are valid examples.
-- `to_date`:  The right bound of the date to search for data.  Accepts a ISO date or ISO date-time.  2019-11-12, 2019-11-12 14:44:33 are valid examples.
+- `to_date`:  The right bound of the date to search for data.  Accepts a ISO date or ISO date-time.  2019-11-12, 2019-11-12 14:44:33 are valid examples. -->
